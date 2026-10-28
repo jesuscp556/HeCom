@@ -1,2 +1,2 @@
 # HeCom
-Repositorio creado en semana Tec para la materia Herramientas computacionales
+ Modificado: Repositorio creado en semana Tec para la materia Herramientas computacionales
